@@ -6,7 +6,7 @@
 - Learning **Generative AI**
 - 📫 How to reach me **pathekarpranav05@gmail.com**
 
-- 📄 Know about my experiences (https://bit.ly/Resume_PranavPathekar)
+- 📄 Know about my experiences ( https://bit.ly/Resume_PranavPathekar )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
