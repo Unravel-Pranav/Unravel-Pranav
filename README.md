@@ -1,9 +1,11 @@
-<h1 align="center">Hi , I'm Pranav Pathekar</h1>
+<h1 align="center">Hi 👋, I'm Pranav Pathekar</h1>
 <h3 align="center">AI Engineer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg">
-- Experience : **AI Engineeer at StackMentalist Ventures**, **Data Science Intern at ISRO**
-- Learning **Agentic AI**
-- 📫 How to reach me **pathekarpranav05@gmail.com**
+
+-  **Experience:** AI Engineer at **StackMentalist Ventures**, Data Science Intern at **ISRO**
+-  Currently learning **Agentic AI and Multi-Agent Systems**
+-  Reach me at **pathekarpranav05@gmail.com**
 
 - 📄 Know about my experiences ( [https://bit.ly/Resume_PranavPathekar](https://docsend.com/v/d3t48/resume-pranav) )
 
