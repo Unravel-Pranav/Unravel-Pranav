@@ -105,12 +105,3 @@
 
 </p>
 
-
-
-
-
-<a href="https://openai.com/">
-<img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/>
-</a>
-
-</p>
