@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Oracle SQL -->
+<!-- Oracle -->
 <a href="https://www.oracle.com/database/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </a>
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Scikit Learn -->
+<!-- Scikit -->
 <a href="https://scikit-learn.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
@@ -41,6 +41,26 @@
 <!-- OpenCV -->
 <a href="https://opencv.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+</a>
+
+<!-- LangChain -->
+<a href="https://www.langchain.com/">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+
+<!-- LangGraph -->
+<a href="https://langchain-ai.github.io/langgraph/">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+
+<!-- LangSmith -->
+<a href="https://www.langchain.com/langsmith">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+
+<!-- CrewAI -->
+<a href="https://crewai.com/">
+<img src="https://avatars.githubusercontent.com/u/161115038?s=200&v=4" width="40" height="40"/>
 </a>
 
 <!-- FastAPI -->
@@ -58,7 +78,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
 
-<!-- JavaScript -->
+<!-- JS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
@@ -99,6 +119,16 @@
 </a>
 
 <!-- OpenAI -->
+<a href="https://openai.com/">
+<img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/>
+</a>
+
+</p>
+
+
+
+
+
 <a href="https://openai.com/">
 <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/>
 </a>
