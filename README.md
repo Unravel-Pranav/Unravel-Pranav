@@ -18,104 +18,88 @@
 
 <p align="left">
 
-<!-- Languages -->
-<a href="https://www.python.org">
+<!-- Python -->
+<a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://neo4j.com/product/cypher-query-language/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/database/technologies/appdev/sql.html">
+<!-- Oracle SQL -->
+<a href="https://www.oracle.com/database/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </a>
 
-<!-- AI / ML -->
+<!-- TensorFlow -->
 <a href="https://www.tensorflow.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </a>
 
+<!-- Scikit Learn -->
 <a href="https://scikit-learn.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
 
+<!-- OpenCV -->
 <a href="https://opencv.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Agentic AI -->
-<a href="https://www.langchain.com/">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
-</a>
-
-<a href="https://langchain-ai.github.io/langgraph/">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
-</a>
-
-<a href="https://www.langchain.com/langsmith">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
-</a>
-
-<a href="https://www.crewai.com/">
-<img src="https://avatars.githubusercontent.com/u/161115038?s=200&v=4" width="40" height="40"/>
-</a>
-
-<!-- Backend -->
+<!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Web -->
+<!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
 
+<!-- CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
 
+<!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Databases -->
+<!-- PostgreSQL -->
 <a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
+<!-- Neo4j -->
 <a href="https://neo4j.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Cloud -->
+<!-- AWS -->
 <a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://aws.amazon.com/sagemaker/">
-<img src="https://cdn.worldvectorlogo.com/logos/aws-sagemaker.svg" width="40" height="40"/>
-</a>
-
+<!-- Azure -->
 <a href="https://azure.microsoft.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Tools -->
+<!-- Git -->
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.figma.com/">
+<!-- Figma -->
+<a href="https://figma.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
 </a>
 
-<!-- No Code / Automation -->
+<!-- n8n -->
 <a href="https://n8n.io/">
 <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/>
 </a>
 
-<a href="https://platform.openai.com/">
+<!-- OpenAI -->
+<a href="https://openai.com/">
 <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/>
 </a>
 
