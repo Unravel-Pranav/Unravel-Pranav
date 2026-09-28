@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg">
 
--  **Experience:** AI Engineer at **StackMentalist Ventures**, Data Science Intern at **ISRO**
+-  **Experience:** AI Engineer at **Infarsight**, Data Science Intern at **ISRO**
 -  Currently learning **Agentic AI and Multi-Agent Systems**
 -  Reach me at **pathekarpranav05@gmail.com**
 
