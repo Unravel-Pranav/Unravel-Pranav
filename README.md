@@ -7,7 +7,6 @@
 -  Currently learning **Agentic AI and Multi-Agent Systems**
 -  Reach me at **pathekarpranav05@gmail.com**
 
-- 📄 Know about my experiences ( [https://bit.ly/Resume_PranavPathekar](https://docsend.com/v/d3t48/resume-pranav) )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
